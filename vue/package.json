@@ -1,0 +1,13 @@
+{
+  "name": "vue-benchmark",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.16.2",
+    "vue": "^2.5.2",
+    "vue-server-renderer": "^2.5.2",
+    "vue-template-compiler": "^2.5.2"
+  },
+  "scripts": {
+    "start": "NODE_ENV=production node index.js"
+  }
+}
